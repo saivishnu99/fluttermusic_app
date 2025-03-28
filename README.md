@@ -1,5 +1,5 @@
 # flutter_app
-
+It is a music application with some basic features.
 A new Flutter project.
 
 ## Getting Started
